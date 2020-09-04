@@ -1,3 +1,0 @@
-chmod +x myscript.py
-THEN
-place myscript.py in bin/ directory, then it's runnable from anywhere

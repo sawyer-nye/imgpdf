@@ -1,0 +1,3 @@
+1) mv imgpdf.py imgpdf
+2) chmod a+x imgpdf
+3) place imgpdf in /user/local/bin directory, then it's runnable from anywhere
